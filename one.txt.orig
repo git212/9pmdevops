@@ -3,6 +3,10 @@ updated by developer-2
 updated by developer-3
 git is light weight
 git is nice tool
+<<<<<<< HEAD
 git is distributed
+=======
 git is fast
+
+>>>>>>> 202870a82619106135ebf8fc73417751dbac6ffa
 
